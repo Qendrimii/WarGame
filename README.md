@@ -1,1 +1,3 @@
 # WarGame
+  Krijimi i nje loje e cila i krahason dy letra, letrat janë marrë nga letrat normale prej 52 copë pra pas perfundimit te të gjitha letrave  lojtari qe ka fituar me shumë rounde fiton lojen.
+  Pra ne program jane pedorur 4 lloje te letrave me shenja te ndryshme si: Hearts, Spades, Diamonds dhe clubs ,  secila prej tyre ka 13 letra ndersa 4 prej tyre jane me te veçnta , p.sh. letra 1 shenohet si A (lex. Ace) , letra 11 shenohet si J (lex. Jack) , letra 12 shenohet si Q (lex. Queen	) dhe letra 13 shenohet si K( lex. King). Ndersa si letrat me te medha janë sipas renditjes nga me e madhja ne me te voglen : A , K ,Q ,J ,10 ,9 ,8 ,7 ,6 ,5 ,4 ,3 ,2 , pra letra 2 eshte letra me e dobtë.
